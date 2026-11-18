@@ -1,0 +1,2 @@
+gliner==0.2.30
+huggingface_hub==2.4.0
